@@ -1,0 +1,2 @@
+name="amazing"
+print(name[1:7:2])
