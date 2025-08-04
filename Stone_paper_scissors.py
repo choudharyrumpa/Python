@@ -1,3 +1,6 @@
+# Stone paper scissors game:
+
+
 import random
 
 def get_user_choice():
@@ -33,3 +36,4 @@ def play_game():
 
 if __name__ == "__main__":
     play_game()
+    
